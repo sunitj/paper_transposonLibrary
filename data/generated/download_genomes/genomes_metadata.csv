@@ -1,0 +1,142 @@
+query_taxid,genome_accession,genome_name,genome_taxid,assembly_level,assembly_status,assembly_name,refseq_category,number_of_contigs,contig_n50,contig_l50,genome_coverage,total_sequence_length,total_ungapped_length,gaps,bases_per_contig
+562,GCF_000005845.2,Escherichia coli str. K-12 substr. MG1655,511145,Complete Genome,current,ASM584v2,reference genome,1,4641652,1,,4641652,4641652,0,4641652.0
+587,GCF_003204135.1,Providencia rettgeri,587,Complete Genome,current,ASM320413v1,representative genome,2,4309166,1,178.0,4454136,4454136,0,2227068.0
+588,GCF_023547145.1,Providencia stuartii,588,Complete Genome,current,ASM2354714v1,representative genome,4,4504925,1,70.0,4837555,4837555,0,1209388.75
+636,GCF_002504285.1,Edwardsiella tarda,636,Complete Genome,current,ASM250428v1,representative genome,2,3638764,1,268.0,3720168,3720168,0,1860084.0
+817,GCF_016889925.1,Bacteroides fragilis,817,Complete Genome,current,ASM1688992v1,representative genome,2,5150703,1,906.0,5248938,5248938,0,2624469.0
+818,GCF_014131755.1,Bacteroides thetaiotaomicron,818,Complete Genome,current,ASM1413175v1,representative genome,2,6271157,1,256.0,6304193,6304193,0,3152096.5
+820,GCF_018292165.1,Bacteroides uniformis CL03T12C37,997890,Complete Genome,current,ASM1829216v1,representative genome,2,4874733,1,334.0,4920161,4920161,0,2460080.5
+821,GCF_020885855.1,Phocaeicola vulgatus,821,Complete Genome,current,ASM2088585v1,representative genome,5,4957189,1,100.0,4977532,4977532,0,995506.4
+823,GCF_012273055.1,Parabacteroides distasonis,823,Chromosome,current,ASM1227305v1,representative genome,2,5109892,1,967.5,5112778,5112678,100,2556339.0
+853,GCF_000154385.1,Faecalibacterium prausnitzii M21/2,411485,Scaffold,current,ASM15438v1,representative genome,29,296445,3,,3127383,3126983,400,107827.0
+901,GCF_902373865.1,Desulfovibrio piger,901,Scaffold,current,MGYG-HGUT-01321,representative genome,127,60251,16,10.0,2867216,2826240,40976,22253.858267716536
+905,GCF_000025305.1,Acidaminococcus fermentans DSM 20731,591001,Complete Genome,current,ASM2530v1,representative genome,1,2329769,1,,2329769,2329769,0,2329769.0
+1264,GCF_000179635.2,Ruminococcus albus 7 = DSM 20455,697329,Complete Genome,current,ASM17963v2,representative genome,5,3685408,1,30.0,4482087,4482087,0,896417.4
+1265,GCF_000518765.1,Ruminococcus flavefaciens ATCC 19208,1336236,Scaffold,current,ASM51876v1,representative genome,40,197527,5,,3587803,3581378,6425,89534.45
+1304,GCF_902858935.1,Streptococcus salivarius,1304,Scaffold,current,Ssal_L25,representative genome,22,440271,2,60.0,2185075,2177939,7136,98997.22727272728
+1308,GCF_903886475.1,Streptococcus thermophilus,1308,Complete Genome,current,Streptococcus_thermophilus_CIRM_65,representative genome,2,1788289,1,100.0,1791634,1791634,0,895817.0
+1318,GCF_900459355.1,Streptococcus parasanguinis,1318,Contig,current,41906_A02,representative genome,3,2153219,1,100.0,2170501,2170501,0,723500.3333333334
+1322,GCF_002222595.2,Blautia hansenii DSM 20583,537007,Complete Genome,current,ASM222259v2,representative genome,1,3065949,1,40.0,3065949,3065949,0,3065949.0
+1351,GCF_000393015.1,Enterococcus faecalis EnGen0336,1169293,Scaffold,current,Ente_faec_T5_V1,representative genome,16,346197,3,289.0,2870381,2862665,7716,178916.5625
+1358,GCF_020463755.1,Lactococcus lactis,1358,Complete Genome,current,ASM2046375v1,representative genome,1,2426597,1,408.0,2426597,2426597,0,2426597.0
+1496,GCF_018885085.1,Clostridioides difficile,1496,Complete Genome,current,ASM1888508v1,representative genome,2,4089134,1,,4095894,4095894,0,2047947.0
+1502,GCF_020138775.1,Clostridium perfringens,1502,Complete Genome,current,ASM2013877v1,representative genome,2,3260088,1,44.0,3275424,3275424,0,1637712.0
+1509,GCF_020450145.1,Clostridium sporogenes,1509,Chromosome,current,ASM2045014v1,representative genome,2,4200580,1,1328.7,4246123,4246023,100,2123011.5
+1512,GCF_008632235.1,[Clostridium] symbiosum,1512,Scaffold,current,ASM863223v1,representative genome,7,1273853,2,100.0,5072209,5070161,2048,724308.7142857143
+1547,GCF_016728785.1,Thomasclavelia ramosa,1547,Complete Genome,current,ASM1672878v1,representative genome,1,3543719,1,751.0,3543719,3543719,0,3543719.0
+1597,GCF_000155515.2,Lacticaseibacillus paracasei subsp. paracasei 8700:2,537973,Complete Genome,current,ASM15551v2,representative genome,3,2939026,1,,3025352,3025352,0,1008450.6666666666
+1598,GCF_003703885.1,Limosilactobacillus reuteri,1598,Contig,current,ASM370388v1,representative genome,38,193364,5,213.0,2220255,2220255,0,58427.76315789474
+1623,GCF_000224985.1,Ligilactobacillus ruminis ATCC 27782,1069534,Complete Genome,current,ASM22498v1,representative genome,1,2066652,1,,2066652,2066652,0,2066652.0
+1679,GCF_000196555.1,Bifidobacterium longum subsp. longum JCM 1217,565042,Complete Genome,current,ASM19655v1,representative genome,1,2385164,1,,2385164,2385164,0,2385164.0
+1680,GCF_003030905.1,Bifidobacterium adolescentis,1680,Complete Genome,current,ASM303090v1,representative genome,1,2192428,1,200.0,2192428,2192428,0,2192428.0
+1685,GCF_001281425.1,Bifidobacterium breve,1685,Complete Genome,current,ASM128142v1,representative genome,2,2421115,1,115.3,2426006,2426006,0,1213003.0
+1686,GCF_001025195.1,Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043,566552,Complete Genome,current,ASM102519v1,representative genome,1,2079525,1,9.3,2079525,2079525,0,2079525.0
+1735,GCF_003464225.1,Holdemanella biformis,1735,Scaffold,current,ASM346422v1,representative genome,87,63083,12,100.0,2477128,2476939,189,28470.563218390806
+28026,GCF_020541885.1,Bifidobacterium pseudocatenulatum,28026,Complete Genome,current,ASM2054188v1,representative genome,2,2241223,1,196.8,2245999,2245999,0,1122999.5
+28111,GCF_016894205.1,Bacteroides eggerthii,28111,Chromosome,current,ASM1689420v1,representative genome,1,4228280,1,1301.8,4228380,4228280,100,4228280.0
+28116,GCF_001314995.1,Bacteroides ovatus,28116,Complete Genome,current,ASM131499v1,representative genome,1,6472489,1,350.0,6472489,6472489,0,6472489.0
+28117,GCF_000154465.1,Alistipes putredinis DSM 17216,445970,Scaffold,current,ASM15446v1,representative genome,20,626692,2,,2550678,2549878,800,127493.9
+28118,GCF_020736405.1,Odoribacter splanchnicus DSM 20712,709991,Chromosome,current,ASM2073640v1,representative genome,1,4393264,1,1481.0,4393364,4393264,100,4393264.0
+28126,GCF_900454855.1,Prevotella buccae,28126,Contig,current,57800_F01,representative genome,3,2643339,1,100.0,3122366,3122366,0,1040788.6666666666
+28127,GCF_020735565.1,Hoylesella buccalis,28127,Complete Genome,current,ASM2073556v1,representative genome,1,3308411,1,7609.1,3308411,3308411,0,3308411.0
+29347,GCF_020892115.1,[Clostridium] scindens,29347,Complete Genome,current,ASM2089211v1,representative genome,1,3315593,1,250.0,3315593,3315593,0,3315593.0
+29348,GCF_902373765.1,Thomasclavelia spiroformis,29348,Scaffold,current,MGYG-HGUT-01304,representative genome,16,380632,3,10.0,2507885,2507485,400,156717.8125
+29361,GCF_013300945.1,[Clostridium] nexile,29361,Contig,current,ASM1330094v1,representative genome,49,181355,4,100.0,2775435,2775435,0,56641.5306122449
+29466,GCF_900186885.1,Veillonella parvula,29466,Complete Genome,current,48903_D01,representative genome,1,2132142,1,387.0,2132142,2132142,0,2132142.0
+31971,GCF_902373665.1,Amedibacillus dolichus,31971,Scaffold,current,MGYG-HGUT-01299,representative genome,25,291535,3,10.0,2191053,2190453,600,87618.12
+33029,GCF_002871895.1,Anaerococcus hydrogenalis,33029,Scaffold,current,ASM287189v1,representative genome,15,269332,3,178.1,1908330,1906917,1413,127127.8
+33038,GCF_009831375.1,[Ruminococcus] gnavus ATCC 29149,411470,Complete Genome,current,ASM983137v1,representative genome,1,3549191,1,150.0,3549191,3549191,0,3549191.0
+33039,GCF_003470435.1,[Ruminococcus] torques,33039,Scaffold,current,ASM347043v1,representative genome,94,61956,14,100.0,2959517,2959200,317,31480.85106382979
+33043,GCF_020735705.1,Coprococcus eutactus ATCC 27759,411474,Complete Genome,current,ASM2073570v1,representative genome,1,3113335,1,2234.8,3113335,3113335,0,3113335.0
+35833,GCF_000185705.2,Bilophila wadsworthia 3_1_6,563192,Scaffold,current,Bilo_wads_3_1_6_V2,representative genome,5,3169074,1,23.0,4391194,4391094,100,878218.8
+39485,GCF_000146185.1,[Eubacterium] eligens ATCC 27750,515620,Complete Genome,current,ASM14618v1,representative genome,3,2144190,1,,2831389,2831389,0,943796.3333333334
+39486,GCF_000169235.1,Dorea formicigenerans ATCC 27755,411461,Contig,current,ASM16923v1,representative genome,16,318591,3,,3186031,3186031,0,199126.9375
+39488,GCF_018140635.1,Anaerobutyricum hallii,39488,Chromosome,current,ASM1814063v1,representative genome,3,3434848,1,164.0,3455681,3455581,100,1151860.3333333333
+39496,GCF_003475105.1,Eubacterium ventriosum,39496,Scaffold,current,ASM347510v1,representative genome,37,299392,4,100.0,2761423,2760782,641,74615.72972972973
+39778,GCF_900637515.1,Veillonella dispar,39778,Complete Genome,current,51184_A01,representative genome,1,2116915,1,100.0,2116915,2116915,0,2116915.0
+40518,GCF_002834225.1,Ruminococcus bromii,40518,Contig,current,ASM283422v1,representative genome,74,80809,8,75.0,2151595,2151595,0,29075.608108108107
+40520,GCF_003468995.1,Blautia obeum,40520,Scaffold,current,ASM346899v1,representative genome,35,320905,5,100.0,3889284,3889204,80,111120.11428571428
+45851,GCF_902373805.1,Butyrivibrio crossotus,45851,Scaffold,current,MGYG-HGUT-01319,representative genome,51,148465,6,10.0,2496039,2482791,13248,48682.17647058824
+46124,GCF_019931005.1,Granulicatella adiacens,46124,Complete Genome,current,ASM1993100v1,representative genome,1,1965420,1,3190.0,1965420,1965420,0,1965420.0
+46228,GCF_025152405.1,[Ruminococcus] lactaris ATCC 29176,471875,Complete Genome,current,ASM2515240v1,representative genome,1,2733858,1,100.0,2733858,2733858,0,2733858.0
+46503,GCF_000307345.1,Parabacteroides merdae CL03T12C32,999420,Scaffold,current,Para_merd_CL03T12C32_V1,representative genome,37,261376,6,143.0,4930620,4918045,12575,132920.13513513515
+46506,GCF_000154525.1,Bacteroides stercoris ATCC 43183,449673,Scaffold,current,ASM15452v1,representative genome,23,587129,3,,4009829,4009229,600,174314.30434782608
+47678,GCF_018292205.1,Bacteroides caccae CL03T12C61,997873,Complete Genome,current,ASM1829220v1,representative genome,4,5485670,1,164.0,5499725,5499725,0,1374931.25
+52226,GCF_902373875.1,Mitsuokella multacida,52226,Scaffold,current,MGYG-HGUT-01316,representative genome,31,317011,4,10.0,2577056,2574556,2500,83050.19354838709
+53443,GCF_001404935.1,Blautia hydrogenotrophica,53443,Scaffold,current,13414_6#41,representative genome,23,286467,5,100.0,3531725,3529520,2205,153457.39130434784
+61171,GCF_003459085.1,Holdemania filiformis,61171,Scaffold,current,ASM345908v1,representative genome,58,141100,9,100.0,3744856,3744494,362,64560.24137931035
+69218,GCF_019665745.1,Enterobacter cancerogenus,69218,Chromosome,current,ASM1966574v1,representative genome,10,2451850,1,5.0,4736684,4719133,17551,471913.3
+74426,GCF_002736145.1,Collinsella aerofaciens,74426,Complete Genome,current,ASM273614v1,representative genome,1,2306349,1,225.0,2306349,2306349,0,2306349.0
+78346,GCF_019042115.1,Bifidobacterium ruminantium,78346,Contig,current,ASM1904211v1,representative genome,25,269243,3,100.0,2179291,2179291,0,87171.64
+84030,GCF_000144625.1,[Clostridium] saccharolyticum WM1,610130,Complete Genome,current,ASM14462v1,representative genome,1,4662871,1,30.0,4662871,4662871,0,4662871.0
+84109,GCF_900450505.1,Slackia exigua,84109,Contig,current,51765_F02,representative genome,2,2094872,1,100.0,2102748,2102748,0,1051374.0
+84110,GCF_900637575.1,Slackia heliotrinireducens,84110,Complete Genome,current,52006_A02,representative genome,1,3166158,1,100.0,3166158,3166158,0,3166158.0
+84112,GCF_021378605.1,Eggerthella lenta,84112,Complete Genome,current,ASM2137860v1,representative genome,2,3464122,1,30.0,3467966,3467966,0,1733983.0
+88431,GCF_001404635.1,Dorea longicatena,88431,Scaffold,current,13414_6#35,representative genome,58,138924,7,100.0,3033150,3031081,2069,52260.01724137931
+89014,GCF_015669135.1,Blautia luti,89014,Scaffold,current,ASM1566913v1,representative genome,75,125887,10,47.9,3736625,3736428,197,49819.04
+89153,GCF_005844135.1,[Clostridium] hylemonae,89153,Scaffold,current,ASM584413v1,representative genome,56,148989,10,49.7,3794810,3793913,897,67748.44642857143
+90371,GCF_000006945.2,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,99287,Complete Genome,current,ASM694v2,reference genome,2,4857450,1,,4951383,4951383,0,2475691.5
+100886,GCF_902362575.1,Catenibacterium mitsuokai,100886,Scaffold,current,MGYG-HGUT-00026,representative genome,196,27326,30,10.0,2532364,2527399,4965,12894.892857142857
+102148,GCF_000425005.1,Solobacterium moorei DSM 22971,1123263,Scaffold,current,ASM42500v1,representative genome,170,23329,31,,2335946,2335456,490,13737.976470588235
+102862,GCF_022369495.1,Proteus penneri,102862,Complete Genome,current,ASM2236949v1,representative genome,2,3979020,1,102.7,4023090,4023090,0,2011545.0
+105841,GCF_020181435.1,Anaerostipes caccae,105841,Complete Genome,current,ASM2018143v1,representative genome,1,3284789,1,332.0,3284789,3284789,0,3284789.0
+126385,GCF_002393505.1,Providencia alcalifaciens,126385,Complete Genome,current,ASM239350v1,representative genome,1,3990106,1,16.5,3990106,3990106,0,3990106.0
+133926,GCF_000143845.1,Olsenella uli DSM 7084,633147,Complete Genome,current,ASM14384v1,representative genome,1,2051896,1,30.0,2051896,2051896,0,2051896.0
+147206,GCF_020735465.1,Collinsella stercoris DSM 13279,445975,Complete Genome,current,ASM2073546v1,representative genome,1,2460750,1,3903.0,2460750,2460750,0,2460750.0
+147207,GCF_902501455.1,Collinsella intestinalis,147207,Contig,current,DSM13632,representative genome,30,453107,2,723.0,1776933,1776933,0,59231.1
+154046,GCF_009721605.1,Hungatella hathewayi,154046,Contig,current,ASM972160v1,representative genome,73,229576,9,100.0,6646572,6646572,0,91048.93150684932
+165179,GCF_020735445.1,Prevotella copri DSM 18205,537011,Complete Genome,current,ASM2073544v1,representative genome,3,3325535,1,2127.2,3551614,3551614,0,1183871.3333333333
+166486,GCF_900537995.1,Roseburia intestinalis L1-82,536231,Complete Genome,current,Roseburia intestinalis strain L1-82,representative genome,1,4493348,1,270.0,4493348,4493348,0,4493348.0
+168384,GCF_025148285.1,Marvinbryantia formatexigens DSM 14469,478749,Complete Genome,current,ASM2514828v1,representative genome,1,4577574,1,100.0,4577574,4577574,0,4577574.0
+169435,GCF_023008305.1,Anaerotruncus colihominis,169435,Complete Genome,current,ASM2300830v1,representative genome,2,3456568,1,297.0,3508661,3508661,0,1754330.5
+172901,GCF_003096415.1,Victivallis vadensis,172901,Scaffold,current,ASM309641v1,representative genome,90,126504,15,219.0,5199916,5199623,293,57773.58888888889
+187327,GCF_902381715.1,Acidaminococcus intestini,187327,Chromosome,current,UHGG_MGYG-HGUT-01440,representative genome,38,110423,8,10.0,2287856,2243882,43974,59049.52631578947
+208479,GCF_002234575.2,Enterocloster bolteae,208479,Complete Genome,current,ASM223457v2,representative genome,2,6570176,1,20.0,6614036,6614036,0,3307018.0
+214851,GCF_025152575.1,Subdoligranulum variabile,214851,Complete Genome,current,ASM2515257v1,representative genome,1,3244954,1,100.0,3244954,3244954,0,3244954.0
+214853,GCF_000154825.1,Anaerofustis stercorihominis DSM 17244,445971,Scaffold,current,ASM15482v1,representative genome,6,1288597,1,,2284703,2284603,100,380767.1666666667
+214856,GCF_015548275.1,Alistipes finegoldii,214856,Scaffold,current,ASM1554827v1,representative genome,17,384258,3,27.7,3349616,3349253,363,197014.88235294117
+218538,GCF_000160055.1,Dialister invisus DSM 15470,592028,Scaffold,current,ASM16005v1,representative genome,2,1894898,1,,1895960,1895860,100,947930.0
+239935,GCF_009731575.1,Akkermansia muciniphila,239935,Complete Genome,current,ASM973157v1,representative genome,2,2845645,1,402.0,2878459,2878459,0,1439229.5
+246787,GCF_018292125.1,Bacteroides cellulosilyticus,246787,Complete Genome,current,ASM1829212v1,representative genome,3,7170151,1,171.0,7271073,7271073,0,2423691.0
+253239,GCF_000178115.2,Ethanoligenens harbinense YUAN-3,663278,Complete Genome,current,ASM17811v2,representative genome,1,3008576,1,30.0,3008576,3008576,0,3008576.0
+261299,GCF_902362795.1,Intestinibacter bartlettii,261299,Scaffold,current,MGYG-HGUT-00062,representative genome,25,445289,3,10.0,3141706,3140384,1322,125615.36
+301301,GCF_902387955.1,Roseburia hominis,301301,Complete Genome,current,UHGG_MGYG-HGUT-02517,representative genome,1,3592125,1,10.0,3592125,3592125,0,3592125.0
+310297,GCF_902374375.1,Phocaeicola plebeius,310297,Scaffold,current,MGYG-HGUT-01364,representative genome,25,478534,4,10.0,4421924,4421324,600,176852.96
+310298,GCF_000154845.1,Phocaeicola coprocola DSM 17136,470145,Scaffold,current,ASM15484v1,representative genome,135,80142,18,,4300117,4295617,4500,31819.385185185187
+328813,GCF_006542645.1,Alistipes onderdonkii subsp. vulgaris,2585117,Complete Genome,current,Aond_1.0,representative genome,1,3507492,1,550.0,3507492,3507492,0,3507492.0
+328814,GCF_015558405.1,Alistipes shahii,328814,Scaffold,current,ASM1555840v1,representative genome,60,173254,6,53.6,3561746,3561013,733,59350.21666666667
+329854,GCF_020341675.1,Bacteroides intestinalis,329854,Chromosome,current,ASM2034167v1,representative genome,2,4203147,1,80.0,5785766,5784254,1512,2892127.0
+333367,GCF_025149125.1,[Clostridium] asparagiforme DSM 15981,518636,Complete Genome,current,ASM2514912v1,representative genome,1,6353279,1,100.0,6353279,6353279,0,6353279.0
+338188,GCF_008571395.1,Bacteroides finegoldii,338188,Scaffold,current,ASM857139v1,representative genome,119,105799,13,405.9,4999807,4999782,25,42014.97478991596
+357276,GCF_902387545.1,Phocaeicola dorei,357276,Complete Genome,current,UHGG_MGYG-HGUT-02478,representative genome,1,5444912,1,10.0,5444912,5444912,0,5444912.0
+360807,GCF_020731525.1,Roseburia inulinivorans DSM 16841,622312,Contig,current,ASM2073152v1,representative genome,2,2716685,1,2880.4,4227688,4227688,0,2113844.0
+371601,GCF_018289135.1,Bacteroides xylanisolvens,371601,Complete Genome,current,ASM1828913v1,representative genome,4,6425332,1,287.0,6558523,6558523,0,1639630.75
+387090,GCF_016888945.1,Phocaeicola coprophilus,387090,Complete Genome,current,ASM1688894v1,representative genome,1,4113613,1,1318.7,4113613,4113613,0,4113613.0
+387661,GCF_020735865.1,Parabacteroides johnsonii,387661,Complete Genome,current,ASM2073586v1,representative genome,1,4766157,1,2265.6,4766157,4766157,0,4766157.0
+410072,GCF_016904155.1,Coprococcus comes,410072,Complete Genome,current,ASM1690415v1,representative genome,1,3373067,1,1694.5,3373067,3373067,0,3373067.0
+418240,GCF_025148125.1,Blautia wexlerae DSM 19850,1121115,Complete Genome,current,ASM2514812v1,representative genome,1,4685728,1,100.0,4685728,4685728,0,4685728.0
+438033,GCF_025151995.1,Ruminococcus gauvreauii,438033,Complete Genome,current,ASM2515199v1,representative genome,1,4145839,1,100.0,4145839,4145839,0,4145839.0
+446660,GCF_000478885.1,Adlercreutzia equolifaciens DSM 19450,1384484,Complete Genome,current,ASM47888v1,representative genome,1,2862526,1,33.1,2862526,2862526,0,2862526.0
+544645,GCF_016889065.1,Butyricimonas virosa,544645,Complete Genome,current,ASM1688906v1,representative genome,1,4813143,1,611.9,4813143,4813143,0,4813143.0
+626932,GCF_014163495.1,Alistipes indistinctus,626932,Complete Genome,current,ASM1416349v1,representative genome,2,3012737,1,196.0,3095585,3095585,0,1547792.5
+691816,GCF_000614125.1,Bacteroides rodentium JCM 16496,1236512,Contig,current,ASM61412v1,representative genome,148,78229,19,27.0,4884492,4884492,0,33003.32432432433
+1288121,GCF_900624755.1,Alistipes senegalensis,1288121,Contig,current,81E7,representative genome,3,3626663,1,1.0,3674467,3674467,0,1224822.3333333333
+1297617,GCF_001940005.1,Intestinimonas butyriciproducens,1297617,Contig,current,ASM194000v1,representative genome,3,3188067,1,80.0,3200860,3200860,0,1066953.3333333333
+1470347,GCF_025144665.1,Alistipes ihumii AP11,1211813,Complete Genome,current,ASM2514466v1,representative genome,1,2780015,1,100.0,2780015,2780015,0,2780015.0
+1506,GCA_022010015.1,Clostridium sp.,1506,Complete Genome,current,ASM2201001v1,,1,2006077,1,78.0,2006077,2006077,0,2006077.0
+1535,GCA_027682515.1,[Clostridium] leptum,1535,Scaffold,current,ASM2768251v1,,40,260947,4,100.0,2932235,2932125,110,73303.125
+1682,GCA_902167885.1,Bifidobacterium longum subsp. infantis,1682,Complete Genome,current,B.longum_ssp_infantis_6_mod2,,1,2832850,1,100.0,2832850,2832850,0,2832850.0
+29523,GCA_021628675.1,Bacteroides sp.,29523,Contig,current,ASM2162867v1,,2,1997017,1,31.0,2821095,2821095,0,1410547.5
+39491,GCA_022453685.1,[Eubacterium] rectale,39491,Complete Genome,current,ASM2245368v1,,1,3451485,1,129.4,3451485,3451485,0,3451485.0
+39492,GCA_025150425.1,[Eubacterium] siraeum,39492,Complete Genome,current,ASM2515042v1,,1,2694742,1,100.0,2694742,2694742,0,2694742.0
+76856,GCA_003019785.1,Fusobacterium nucleatum subsp. nucleatum ATCC 23726,525283,Complete Genome,current,ASM301978v1,,1,2299539,1,35.0,2299539,2299539,0,2299539.0
+84026,GCA_902374025.1,[Clostridium] methylpentosum,84026,Scaffold,current,MGYG-HGUT-01332,,146,49170,24,10.0,3478423,3406326,72097,23331.0
+384638,GCA_025146925.1,[Bacteroides] pectinophilus,384638,Complete Genome,current,ASM2514692v1,,1,3078488,1,100.0,3078488,3078488,0,3078488.0
+1869337,GCA_019417325.1,Parabacteroides sp.,1869337,Contig,current,ASM1941732v1,,38,223084,9,47.3,5138049,5138049,0,135211.81578947368
+1872530,GCA_018375095.1,Anaerostipes sp.,1872530,Contig,current,ASM1837509v1,,45,321615,4,50.1,3323307,3323307,0,73851.26666666666
+1891238,GCA_024235795.1,Burkholderiales bacterium,1891238,Contig,current,ASM2423579v1,,4,1025236,2,228.2,3965125,3965125,0,991281.25
+1898207,GCA_003150435.1,Clostridiales bacterium,1898207,Scaffold,current,ASM315043v1,,10,316238,3,17.0,2204036,2203894,142,220389.4
+1945593,GCA_009739395.1,Oscillibacter sp.,1945593,Contig,current,ASM973939v1,,1,3726880,1,47.0,3726880,3726880,0,3726880.0
+1955243,GCA_018382695.1,Blautia sp.,1955243,Contig,current,ASM1838269v1,,33,172720,7,13.0,3084845,3084845,0,93480.15151515152
+2023260,GCA_022482415.1,Megasphaera sp.,2023260,Contig,current,ASM2248241v1,,1,2385522,1,389.0,2385522,2385522,0,2385522.0
+2053618,GCA_009739385.1,Subdoligranulum sp.,2053618,Contig,current,ASM973938v1,,1,3976408,1,55.0,3976408,3976408,0,3976408.0
