@@ -22,7 +22,7 @@ conda activate trees
 
 ```bash
 git clone REPO SOURCE
-cd TransposonLibrary_Voodgt_Tripathi_etal
+cd paper_transposonLibrary
 pip install -U .
 conda install -c conda-forge ncbi-datasets-cli
 ```
@@ -65,7 +65,9 @@ data/generated/process_genomes
 This notebook uses the `treeViz.py` python script to prune the tree and generate a figure as a pdf file. It also procduces additional files (`.tree` - newick format tree) that can be used with a tree viewer such as [iTOL](https://itol.embl.de/) to make customizations.
 
 Notebook: [prune_tree.ipynb](place_genome_on_tree/prune_tree.ipynb)
+
 Dependency: [treeViz.py](place_genome_on_tree/prune_tree.ipynb) python script
+
 Data generated: `data/generated/prune_tree/`
 
 ```bash
