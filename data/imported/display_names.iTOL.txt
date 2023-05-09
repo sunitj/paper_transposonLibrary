@@ -1,0 +1,171 @@
+LABELS
+#use this template to change the leaf labels, or define/change the internal node names
+#additionally, you can specify a custom class for internal nodes, which can be used to automatically collapse them
+#lines starting with a hash are comments and ignored during parsing
+
+#=================================================================#
+#                    MANDATORY SETTINGS                           #
+#=================================================================#
+#select the separator which is used to delimit the data below (TAB,SPACE or COMMA).This separator must be used throughout this file.
+
+SEPARATOR TAB
+#SEPARATOR SPACE
+#SEPARATOR COMMA
+
+#Internal tree nodes can be specified using IDs directly, or using the 'last common ancestor' method described in iTOL help pages
+#=================================================================#
+#       Actual data follows after the "DATA" keyword              #
+#=================================================================#
+DATA
+#NODE_ID,LABEL,CLASS
+
+#Examples
+
+#note that the class field is optional
+
+#define a name and class for an internal node. Class 'kingdom' will be available when using the automatic clade collapsing function
+#9031|9606,Metazoa,kingdom
+
+#change the label for leaf node 9606
+#9606,Homo sapiens
+GCA_025146925.1_ASM2514692v1_genomic	Bacteroides pectinophilus	Firmicutes_A
+GCF_025149125.1_ASM2514912v1_genomic	Enterocloster asparagiformis	Firmicutes_A
+GCF_005844135.1_ASM584413v1_genomic	Clostridium hylemonae	Firmicutes_A
+GCA_027682515.1_ASM2768251v1_genomic	Clostridium leptum	Firmicutes_A
+GCA_902374025.1_MGYG-HGUT-01332_genomic	Clostridium methylpentosum	Firmicutes_A
+GCF_013300945.1_ASM1330094v1_genomic	Tyzzerella nexilis	Firmicutes_A
+GCF_000144625.1_ASM14462v1_genomic	Lacrimispora saccharolytica	Firmicutes_A
+GCF_020892115.1_ASM2089211v1_genomic	Clostridium scindens	Firmicutes_A
+GCF_008632235.1_ASM863223v1_genomic	Clostridium symbiosum	Firmicutes_A
+GCF_000146185.1_ASM14618v1_genomic	Lachnospira eligens	Firmicutes_A
+GCA_022453685.1_ASM2245368v1_genomic	Eubacterium rectale	Firmicutes_A
+GCA_025150425.1_ASM2515042v1_genomic	Eubacterium siraeum	Firmicutes_A
+GCF_009831375.1_ASM983137v1_genomic	Ruminococcus gnavus	Firmicutes_A
+GCF_025152405.1_ASM2515240v1_genomic	Ruminococcus lactaris	Firmicutes_A
+GCF_003470435.1_ASM347043v1_genomic	Ruminococcus torques	Firmicutes_A
+GCF_000025305.1_ASM2530v1_genomic	Acidaminococcus fermentans	Firmicutes_C
+GCF_902381715.1_UHGG_MGYG-HGUT-01440_genomic	Acidaminococcus intestini	Firmicutes_C
+GCF_000478885.1_ASM47888v1_genomic	Adlercreutzia equolifaciens	Actinobacteriota
+GCF_009731575.1_ASM973157v1_genomic	Akkermansia muciniphila	Verrucomicrobiota
+GCF_015548275.1_ASM1554827v1_genomic	Alistipes finegoldii	Bacteroidota
+GCF_025144665.1_ASM2514466v1_genomic	Alistipes ihumii	Bacteroidota
+GCF_014163495.1_ASM1416349v1_genomic	Alistipes indistinctus	Bacteroidota
+GCF_006542645.1_Aond_1.0_genomic	Alistipes onderdonkii	Bacteroidota
+GCF_000154465.1_ASM15446v1_genomic	Alistipes putredinis	Bacteroidota
+GCF_900624755.1_81E7_genomic	Alistipes senegalensis	Bacteroidota
+GCF_015558405.1_ASM1555840v1_genomic	Alistipes shahii	Bacteroidota
+GCF_902373665.1_MGYG-HGUT-01299_genomic	Amedibacillus dolichus	Firmicutes
+GCF_018140635.1_ASM1814063v1_genomic	Anaerobutyricum hallii	Firmicutes_A
+GCF_002871895.1_ASM287189v1_genomic	Anaerococcus hydrogenalis	Firmicutes_A
+GCF_000154825.1_ASM15482v1_genomic	Anaerofustis stercorihominis	Firmicutes_A
+GCF_020181435.1_ASM2018143v1_genomic	Anaerostipes caccae	Firmicutes_A
+GCA_018375095.1_ASM1837509v1_genomic	Anaerostipes sp.	Firmicutes_A
+GCF_023008305.1_ASM2300830v1_genomic	Anaerotruncus colihominis	Firmicutes_A
+GCF_018292205.1_ASM1829220v1_genomic	Bacteroides caccae	Bacteroidota
+GCF_018292125.1_ASM1829212v1_genomic	Bacteroides cellulosilyticus	Bacteroidota
+GCF_016894205.1_ASM1689420v1_genomic	Bacteroides eggerthii	Bacteroidota
+GCF_008571395.1_ASM857139v1_genomic	Bacteroides finegoldii	Bacteroidota
+GCF_016889925.1_ASM1688992v1_genomic	Bacteroides fragilis	Bacteroidota
+GCF_020341675.1_ASM2034167v1_genomic	Bacteroides intestinalis	Bacteroidota
+GCF_001314995.1_ASM131499v1_genomic	Bacteroides ovatus	Bacteroidota
+GCF_000614125.1_ASM61412v1_genomic	Bacteroides rodentium	Bacteroidota
+GCA_021628675.1_ASM2162867v1_genomic	Bacteroides sp.	Bacteroidota
+GCF_000154525.1_ASM15452v1_genomic	Bacteroides stercoris	Bacteroidota
+GCF_014131755.1_ASM1413175v1_genomic	Bacteroides thetaiotaomicron	Bacteroidota
+GCF_018292165.1_ASM1829216v1_genomic	Bacteroides uniformis	Bacteroidota
+GCF_018289135.1_ASM1828913v1_genomic	Bacteroides xylanisolvens	Bacteroidota
+GCF_003030905.1_ASM303090v1_genomic	Bifidobacterium adolescentis	Actinobacteriota
+GCF_001281425.1_ASM128142v1_genomic	Bifidobacterium breve	Actinobacteriota
+GCF_001025195.1_ASM102519v1_genomic	Bifidobacterium catenulatum	Actinobacteriota
+GCA_902167885.1_B.longum_ssp_infantis_6_mod2_genomic	Bifidobacterium longum subsp. infantis	Actinobacteriota
+GCF_000196555.1_ASM19655v1_genomic	Bifidobacterium longum subsp. longum	Actinobacteriota
+GCF_020541885.1_ASM2054188v1_genomic	Bifidobacterium pseudocatenulatum	Actinobacteriota
+GCF_019042115.1_ASM1904211v1_genomic	Bifidobacterium ruminantium 	Actinobacteriota
+GCF_000185705.2_Bilo_wads_3_1_6_V2_genomic	Bilophila wadsworthia	Desulfobacterota_I
+GCF_002222595.2_ASM222259v2_genomic	Blautia hansenii	Firmicutes_A
+GCF_001404935.1_13414_6_41_genomic	Blautia hydrogenotrophica	Firmicutes_A
+GCF_015669135.1_ASM1566913v1_genomic	Blautia luti	Firmicutes_A
+GCF_003468995.1_ASM346899v1_genomic	Blautia obeum	Firmicutes_A
+GCA_018382695.1_ASM1838269v1_genomic	Blautia sp.	Firmicutes_A
+GCF_025148125.1_ASM2514812v1_genomic	Blautia wexlerae	Firmicutes_A
+GCA_024235795.1_ASM2423579v1_genomic	Burkholderiales bacterium	Proteobacteria
+GCF_016889065.1_ASM1688906v1_genomic	Butyricimonas virosa	Bacteroidota
+GCF_902373805.1_MGYG-HGUT-01319_genomic	Butyrivibrio crossotus	Firmicutes_A
+GCF_902362575.1_MGYG-HGUT-00026_genomic	Catenibacterium mitsuokai	Firmicutes
+GCA_003150435.1_ASM315043v1_genomic	Clostridiales bacterium	Firmicutes_A
+GCF_018885085.1_ASM1888508v1_genomic	Clostridioides difficile	Firmicutes_A
+GCF_020138775.1_ASM2013877v1_genomic	Clostridium perfringens	Firmicutes_A
+GCA_022010015.1_ASM2201001v1_genomic	Clostridium sp.	Firmicutes
+GCF_020450145.1_ASM2045014v1_genomic	Clostridium sporogenes	Firmicutes_A
+GCF_002736145.1_ASM273614v1_genomic	Collinsella aerofaciens	Actinobacteriota
+GCF_902501455.1_DSM13632_genomic	Collinsella intestinalis	Actinobacteriota
+GCF_020735465.1_ASM2073546v1_genomic	Collinsella stercoris	Actinobacteriota
+GCF_016904155.1_ASM1690415v1_genomic	Coprococcus comes	Firmicutes_A
+GCF_020735705.1_ASM2073570v1_genomic	Coprococcus eutactus	Firmicutes_A
+GCF_902373865.1_MGYG-HGUT-01321_genomic	Desulfovibrio piger	Desulfobacterota_I
+GCF_000160055.1_ASM16005v1_genomic	Dialister invisus	Firmicutes_C
+GCF_000169235.1_ASM16923v1_genomic	Dorea formicigenerans	Firmicutes_A
+GCF_001404635.1_13414_6_35_genomic	Dorea longicatena	Firmicutes_A
+GCF_002504285.1_ASM250428v1_genomic	Edwardsiella tarda	Proteobacteria
+GCF_021378605.1_ASM2137860v1_genomic	Eggerthella lenta	Actinobacteriota
+GCF_019665745.1_ASM1966574v1_genomic	Enterobacter cancerogenus	Proteobacteria
+GCF_002234575.2_ASM223457v2_genomic	Enterocloster bolteae	Firmicutes_A
+GCF_000393015.1_Ente_faec_T5_V1_genomic	Enterococcus faecalis	Firmicutes
+GCF_000005845.2_ASM584v2_genomic	Escherichia coli	Proteobacteria
+GCF_000178115.2_ASM17811v2_genomic	Ethanoligenens harbinense	Firmicutes_A
+GCF_003475105.1_ASM347510v1_genomic	Eubacterium ventriosum	Firmicutes_A
+GCF_000154385.1_ASM15438v1_genomic	Faecalibacterium prausnitzii	Firmicutes_A
+GCA_003019785.1_ASM301978v1_genomic	Fusobacterium nucleatum subsp. nucleatum	Fusobacteriota
+GCF_019931005.1_ASM1993100v1_genomic	Granulicatella adiacens	Firmicutes
+GCF_003464225.1_ASM346422v1_genomic	Holdemanella biformis	Firmicutes
+GCF_003459085.1_ASM345908v1_genomic	Holdemania filiformis	Firmicutes
+GCF_020735565.1_ASM2073556v1_genomic	Hoylesella buccalis	Bacteroidota
+GCF_009721605.1_ASM972160v1_genomic	Hungatella hathewayi	Firmicutes_A
+GCF_902362795.1_MGYG-HGUT-00062_genomic	Intestinibacter bartlettii	Firmicutes_A
+GCF_001940005.1_ASM194000v1_genomic	Intestinimonas butyriciproducens	Firmicutes_A
+GCF_000155515.2_ASM15551v2_genomic	Lacticaseibacillus paracasei	Firmicutes
+GCF_020463755.1_ASM2046375v1_genomic	Lactococcus lactis	Firmicutes
+GCF_000224985.1_ASM22498v1_genomic	Ligilactobacillus ruminis	Firmicutes
+GCF_003703885.1_ASM370388v1_genomic	Limosilactobacillus reuteri	Firmicutes
+GCF_025148285.1_ASM2514828v1_genomic	Marvinbryantia formatexigens	Firmicutes_A
+GCA_022482415.1_ASM2248241v1_genomic	Megasphaera sp.	Firmicutes_C
+GCF_902373875.1_MGYG-HGUT-01316_genomic	Mitsuokella multacida	Firmicutes_C
+GCF_020736405.1_ASM2073640v1_genomic	Odoribacter splanchnicus	Bacteroidota
+GCF_000143845.1_ASM14384v1_genomic	Olsenella uli	Actinobacteriota
+GCA_009739395.1_ASM973939v1_genomic	Oscillibacter sp.	Firmicutes_A
+GCF_012273055.1_ASM1227305v1_genomic	Parabacteroides distasonis	Bacteroidota
+GCF_020735865.1_ASM2073586v1_genomic	Parabacteroides johnsonii	Bacteroidota
+GCF_000307345.1_Para_merd_CL03T12C32_V1_genomic	Parabacteroides merdae	Bacteroidota
+GCA_019417325.1_ASM1941732v1_genomic	Parabacteroides sp.	Bacteroidota
+GCF_000154845.1_ASM15484v1_genomic	Phocaeicola coprocola	Bacteroidota
+GCF_016888945.1_ASM1688894v1_genomic	Phocaeicola coprophilus	Bacteroidota
+GCF_902387545.1_UHGG_MGYG-HGUT-02478_genomic	Phocaeicola dorei	Bacteroidota
+GCF_902374375.1_MGYG-HGUT-01364_genomic	Phocaeicola plebeius	Bacteroidota
+GCF_020885855.1_ASM2088585v1_genomic	Phocaeicola vulgatus	Bacteroidota
+GCF_900454855.1_57800_F01_genomic	Prevotella buccae	Bacteroidota
+GCF_020735445.1_ASM2073544v1_genomic	Prevotella copri	Bacteroidota
+GCF_022369495.1_ASM2236949v1_genomic	Proteus penneri	Proteobacteria
+GCF_002393505.1_ASM239350v1_genomic	Providencia alcalifaciens	Proteobacteria
+GCF_003204135.1_ASM320413v1_genomic	Providencia rettgeri	Proteobacteria
+GCF_023547145.1_ASM2354714v1_genomic	Providencia stuartii	Proteobacteria
+GCF_902387955.1_UHGG_MGYG-HGUT-02517_genomic	Roseburia hominis	Firmicutes_A
+GCF_900537995.1_Roseburia_intestinalis_strain_L1-82_genomic	Roseburia intestinalis	Firmicutes_A
+GCF_020731525.1_ASM2073152v1_genomic	Roseburia inulinivorans	Firmicutes_A
+GCF_000179635.2_ASM17963v2_genomic	Ruminococcus albus	Firmicutes_A
+GCF_002834225.1_ASM283422v1_genomic	Ruminococcus bromii	Firmicutes_A
+GCF_000518765.1_ASM51876v1_genomic	Ruminococcus flavefaciens	Firmicutes_A
+GCF_025151995.1_ASM2515199v1_genomic	Ruminococcus gauvreauii	Firmicutes_A
+GCF_000006945.2_ASM694v2_genomic	Salmonella enterica subsp. enterica serovar Typhimurium	Proteobacteria
+GCF_900450505.1_51765_F02_genomic	Slackia exigua	Actinobacteriota
+GCF_900637575.1_52006_A02_genomic	Slackia heliotrinireducens	Actinobacteriota
+GCF_000425005.1_ASM42500v1_genomic	Solobacterium moorei	Firmicutes
+GCF_900459355.1_41906_A02_genomic	Streptococcus parasanguinis	Firmicutes
+GCF_902858935.1_Ssal_L25_genomic	Streptococcus salivarius	Firmicutes
+GCF_903886475.1_Streptococcus_thermophilus_CIRM_65_genomic	Streptococcus thermophilus	Firmicutes
+GCA_009739385.1_ASM973938v1_genomic	Subdoligranulum sp.	Firmicutes_A
+GCF_025152575.1_ASM2515257v1_genomic	Subdoligranulum variabile	Firmicutes_A
+GCF_016728785.1_ASM1672878v1_genomic	Thomasclavelia ramosa	Firmicutes
+GCF_902373765.1_MGYG-HGUT-01304_genomic	Thomasclavelia spiroformis	Firmicutes
+GCF_900637515.1_51184_A01_genomic	Veillonella dispar	Firmicutes_C
+GCF_900186885.1_48903_D01_genomic	Veillonella parvula	Firmicutes_C
+GCF_003096415.1_ASM309641v1_genomic	Victivallis vadensis	Verrucomicrobiota
